@@ -13,12 +13,6 @@
                 <feMergeNode in="SourceGraphic"></feMergeNode>
             </feMerge>
         </filter>
-        <style type="text/css">
-            @font-face {
-                font-family: "GlossAndBloom, Gloss And Bloom";
-                src: url("http://bharatiyachef.com/font/Gloss_And_Bloom.ttf");
-            }
-        </style>
     </defs>
     <g id="Page-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Group" filter="url(#filter-1)" transform="translate(18.000000, 8.000000)">
