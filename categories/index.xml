@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on क्यूंकि खुशिया रसोई में बनाई जाती है।</title>
+    <link>https://bharatiyachef.com/categories/</link>
+    <description>Recent content in Categories on क्यूंकि खुशिया रसोई में बनाई जाती है।</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>hi</language>
+    <lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://bharatiyachef.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Indian Dessert Recipes</title>
+      <link>https://bharatiyachef.com/categories/indian-dessert-recipes/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bharatiyachef.com/categories/indian-dessert-recipes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>North Indian Recipes</title>
+      <link>https://bharatiyachef.com/categories/north-indian-recipes/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bharatiyachef.com/categories/north-indian-recipes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sweets Recipes</title>
+      <link>https://bharatiyachef.com/categories/sweets-recipes/</link>
+      <pubDate>Mon, 02 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bharatiyachef.com/categories/sweets-recipes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
