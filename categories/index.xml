@@ -6,10 +6,19 @@
     <description>Recent content in Categories on क्यूंकि खुशिया रसोई में बनती है।</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>hi</language>
-    <lastBuildDate>Sun, 13 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bharatiyachef.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Health</title>
+      <link>https://bharatiyachef.com/categories/health/</link>
+      <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://bharatiyachef.com/categories/health/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Paneer Recipes in hindi</title>
